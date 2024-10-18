@@ -1,0 +1,6 @@
+Greetings  {doctor}
+
+            I am a medical chatbot of  {patient_name}
+            {patient_name} is requesting for an appointment on  {date} with  {doctor}
+        
+    

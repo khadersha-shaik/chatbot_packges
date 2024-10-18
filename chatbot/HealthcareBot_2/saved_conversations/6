@@ -1,0 +1,49 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : righteous
+bot : - Hello. How are you feeling today?
+user : my body aches
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : yes 
+bot : - Bye. Nice talking to you
+user : can i see the doctor 
+bot : - all doctors are attending patients. we shall revert to your request soon. Do you want to book an appointment?
+user : yes 
+bot : - Bye. Nice talking to you
+user : hi
+bot : - Hello. How are you feeling today?
+user : gucci
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : im doone b
+bot : - Hello! your name has been stored. What is your age?
+user : 19
+bot : - - are you online?
+user : no
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : i love to think about boys too much
+bot : - okay location stored. Welcome to medical portal. Say Hi!
+user : hi
+bot : - Hello. How are you feeling today?
+user : sick
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : boys
+bot : - Bye. Nice talking to you
+user : stfuuuuuuuuu
+bot : - ok, is there a swelling or a physical deformity or bleeding at the aching region.
+user : bye itch
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : yes b
+bot : - bye. thanks for using our service
+user : [i have headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : 1
+bot : - - are you online?
+user : yes
+bot : - Bye. Nice talking to you
+user : bye
+bot : - Bye. Nice talking to you
+user : 
+bot : hello, my name is righteous
+user : I NEED TO SEE THE DOCTOR
+bot : - all doctors are attending patients. we shall revert to your request soon. Do you want to book an appointment?
+user : yes
+bot : - Bye. Nice talking to you
